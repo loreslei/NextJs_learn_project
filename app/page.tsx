@@ -26,7 +26,6 @@ export default function Page() {
             <span>Log in</span> <ArrowRightIcon className="w-5 md:w-6" />
           </Link>
         </div>
-        <div className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black" />
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
             <Image
             src="/hero-desktop.png"
